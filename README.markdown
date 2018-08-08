@@ -5,9 +5,9 @@
 ## An introduction
 
 
-The JaSON application is a template web application that extends [Flask](http://flask.pocoo.org), a lightweight microframework for Python. The demo uses Twitter Bootstrap for style, Oracle Database 12c for the database, and SQL Alchemy for easy DB connectivity.
+The NameMesh application is a template web application that extends [Flask](http://flask.pocoo.org), a lightweight microframework for Python. The demo uses Twitter Bootstrap for style, Oracle Database 12c for the database, and SQL Alchemy for easy DB connectivity.
  
-JaSON was built to be a simple demo that showcases how Oracle Database 12c can be used as a JSON document store, providing a flexible and scalable development environment, even for novice web developers. In this document, we’ll walk you through how to install and setup the demo application, the general file structure, some details about the tech stack, and a summary of the JSON functionality it showcases.
+NameMesh was built to be a simple demo that showcases how Oracle Database 12c can be used as a JSON document store, providing a flexible and scalable development environment, even for novice web developers. In this document, we’ll walk you through how to install and setup the demo application, the general file structure, some details about the tech stack, and a summary of the JSON functionality it showcases.
 
 ## Installing Dependencies
 
