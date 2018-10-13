@@ -1,6 +1,6 @@
 # Avengers Social Directory
 
-### Getting Started on building a web app using Oracle Database 12c (12.1.0.2 or later) with JSON functionality
+### Building a 3-tier app on Oracle Cloud Infrastucture
 
 ## An introduction
 
